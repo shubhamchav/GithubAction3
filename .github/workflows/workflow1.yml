@@ -2,7 +2,7 @@ name: Workflow A
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   some_job:  
