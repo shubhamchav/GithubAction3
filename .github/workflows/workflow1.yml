@@ -17,5 +17,5 @@ jobs:
       - name: Some Step 
         uses: actions/upload-artifact@v3
         with:
-          name: workflow1.yml
+          name: new.txt
           
